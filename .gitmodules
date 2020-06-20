@@ -1,0 +1,9 @@
+[submodule "footprints/kbd"]
+	path = footprints/kbd
+	url = https://github.com/foostan/kbd
+[submodule "footprints/Keebio-Parts.pretty"]
+	path = footprints/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "symbols/ProMicroKiCad"]
+	path = symbols/ProMicroKiCad
+	url = https://github.com/Biacco42/ProMicroKiCad
